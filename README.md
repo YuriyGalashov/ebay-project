@@ -1,5 +1,5 @@
-# Basic Project
-## Basic Project Structure
+# eBay Project
+## eBay Project Structure
 
 *Default Structure for A Basic Project*
 
